@@ -330,7 +330,7 @@ sistema-gestion-nutricionista/
 
 ### Justificación de Tecnologías Elegidas
 
-- **Spring Boot**: Framework maduro, ampliamente usado en la industria, con gran cantidad de documentación y comunidad activa. Simplifica enormemente la configuración inicial.
+- **Spring Boot**: Framework muy usado en la industria, con mucha cantidad de documentación y comunidad activa. Simplifica enormemente la configuración inicial.
 
 - **MySQL**: Base de datos relacional robusta, gratuita, con excelente soporte y ideal para el modelo de datos estructurado que requiere el sistema.
 
@@ -341,26 +341,3 @@ sistema-gestion-nutricionista/
 - **Arquitectura MVC**: Separa responsabilidades claramente, facilitando el mantenimiento, testing y escalabilidad futura del sistema.
 
 ---
-
-**Documento elaborado por**: Equipo de Desarrollo  
-**Fecha**: Noviembre 2025  
-**Versión**: 1.0  
-**Estado**: Aprobado para desarrollo
-Escriban algunas oraciones que describan el problema que están tratando de resolver, es decir, justifiquen por qué se necesita este software.
-
-## Clientes potenciales
- 
-¿Quiénes están afectados por este problema y se beneficiarían de la solución propuesta? *(es decir, los usuarios potenciales del software que están por construir)*.
-
-## Solución propuesta 
-A
-Escriban algunas oraciones que describan cómo la solución de software resolverá el problema descrito anteriormente.
-
-## Requisitos
-
-Enumeren los requisitos *(funcionales)* que debe tener el software para resolver el problema mencionado anteriormente. Es útil tratar de agrupar los requisitos en los que son esenciales *(debe estar)* y los que no son esenciales *(sería bueno que estén)*.
- 
-## Arquitectura de software
-
-
-¿Será esta una aplicación web / de escritorio / móvil *(todas o algún otro tipo)*? ¿Se ajustaría a la arquitectura de software Cliente-Servidor? ¿Qué lenguajes de programación, frameworks, bases de datos,... se utilizarán para desarrollar e implementar el software?
