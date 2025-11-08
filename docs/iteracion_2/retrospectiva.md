@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 Cumplimiento de Objetivos
+##  Cumplimiento de Objetivos
 
 | Historia de Usuario | Puntos | Estado | Observaciones |
 |---------------------|--------|--------|---------------|
@@ -163,3 +163,4 @@
 **Nota del equipo**: "Ya tenemos un MVP funcional! "
 
 ---
+
