@@ -37,7 +37,7 @@
 
 ---
 
-## 📅 Planificación Semanal
+##  Planificación Semanal
 
 ### Semana 1
 - **Pareja A**: HU-01 (Registrar Paciente)
@@ -57,7 +57,7 @@
 
 ---
 
-## ✅ Definition of Done (criterios a cumplir)
+##  Definition of Done (criterios a cumplir)
 
 Una HU está **TERMINADA** cuando:
 1. ✅ Código implementado y funciona
@@ -76,3 +76,4 @@ Una HU está **TERMINADA** cuando:
 - **Pull Requests**: Revisar siempre el código antes de mergear
 
 ---
+
