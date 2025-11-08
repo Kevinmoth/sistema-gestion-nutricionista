@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Visión del Producto
+##  Visión del Producto
 
 Crear un sistema web que permita a nutricionistas profesionales gestionar eficientemente la información de sus pacientes, planes alimentarios y seguimientos, centralizando toda la información en una plataforma accesible, segura y fácil de usar.
 
@@ -36,7 +36,7 @@ Crear un sistema web que permita a nutricionistas profesionales gestionar eficie
 
 ---
 
-### 🟡 ES BUENO TENER (Media Prioridad)
+###  ES BUENO TENER (Media Prioridad)
 
 | ID | Título | Historia de Usuario | Prioridad | Estimación | Estado |
 |----|--------|-------------------|-----------|------------|--------|
@@ -57,7 +57,7 @@ Crear un sistema web que permita a nutricionistas profesionales gestionar eficie
 
 ---
 
-### ⚪ FUERA DE ALCANCE INICIAL (Baja Prioridad)
+###  FUERA DE ALCANCE INICIAL (Baja Prioridad)
 
 | ID | Título | Historia de Usuario | Prioridad | Estimación | Estado |
 |----|--------|-------------------|-----------|------------|--------|
