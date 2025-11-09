@@ -14,7 +14,7 @@
 
 ---
 
-## 👥 Equipo
+## Equipo
 
 - **Product Owner**: [Andrea Natalia Cabra]
 - **Scrum Master**: [Daniel Skromeda]
