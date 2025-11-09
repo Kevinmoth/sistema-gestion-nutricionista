@@ -6,7 +6,7 @@
 
 ## Enunciado del problema
 
-Los nutricionistas profesionales enfrentan problemas para gestionar la información de sus pacientes de manera eficiente. Actualmente utilizan métodos tradicionales como planillas Excel, cuadernos físicos o aplicaciones genéricas que no están diseñadas para la práctica nutricional. Esto genera pérdida de tiempo al buscar información, dificultad para visualizar la evolución histórica de los pacientes, riesgo de pérdida de datos y desorganización general en la gestión del consultorio.
+Los nutricionistas profesionales enfrentan problemas para gestionar la información de sus pacientes de manera eficiente. Actualmente utilizan métodos tradicionales como planillas Excel, cuadernos físicos o aplicaciones genéricas que no están diseñadas para la práctica nutricional. Esto les genera una pérdida de tiempo al buscar información, dificultad para ver la evolución histórica de los pacientes, riesgo de pérdida de datos y desorganización general en la gestión del consultorio.
 
 ---
 
