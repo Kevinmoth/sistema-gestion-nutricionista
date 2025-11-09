@@ -13,9 +13,9 @@ Crear un sistema web que permita a nutricionistas profesionales gestionar eficie
 
 ---
 
-## 📋 Historias de Usuario Priorizadas
+## Historias de Usuario Priorizadas
 
-### 🔴 DEBE TENER (Alta Prioridad)
+###  DEBE TENER (Alta Prioridad)
 
 | ID | Título | Historia de Usuario | Prioridad | Estimación | Estado |
 |----|--------|-------------------|-----------|------------|--------|
@@ -71,7 +71,7 @@ Crear un sistema web que permita a nutricionistas profesionales gestionar eficie
 
 ---
 
-## 📊 Resumen del Backlog
+## Resumen del Backlog
 
 | Categoría | Cantidad de HU | Puntos Totales |
 |-----------|----------------|----------------|
@@ -106,7 +106,7 @@ Esta velocidad va a ajustar después de las primeras iteraciones basándose en l
 
 ---
 
-##  Planificación de Sprints Tentativa
+## Planificación de Sprints Tentativa
 
 ### **Iteración 0** (Setup - 1 semana)
 - Configuración del entorno de desarrollo
